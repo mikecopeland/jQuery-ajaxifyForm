@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="availableTasks">
+      <set>
+        <GradleTaskDescriptor>
+          <option name="description" value="Generates a Gradle build file. [incubating]" />
+          <option name="name" value="generateBuildFile" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Generates a Gradle settings file. [incubating]" />
+          <option name="name" value="generateSettingsFile" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Initializes a new Gradle build. [incubating]" />
+          <option name="name" value="setupBuild" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+          <option name="name" value="setupWrapper" />
+        </GradleTaskDescriptor>
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+
